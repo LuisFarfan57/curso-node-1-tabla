@@ -1,0 +1,3 @@
+/salida/*.txt
+#Es buena practica crear un archivo al menos dentro de una carpeta que se quiera ignorar
+node_modules/
